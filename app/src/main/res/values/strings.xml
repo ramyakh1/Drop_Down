@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="address_editText">Address*</string>
+    <string name="country_editText">Country*</string>
+
+    <string-array name="country_list">
+        <item>America</item>
+        <item>India</item>
+        <item>Germany</item>
+        <item>Africa</item>
+        <item>China</item>
+    </string-array>
+
+
+</resources>
